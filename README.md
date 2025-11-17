@@ -2,6 +2,8 @@
 
 This document provides three complete, working examples of DMTCP (Distributed MultiThreaded CheckPointing) for C, Python, and R programs on the [Clemson Palmetto cluster](https://docs.rcd.clemson.edu/palmetto/software/checkpointing/dmtcp/).
 
+👉 The folder **[molecular-dynamics](molecular-dynamics/)** provides specific scientific examples.
+
 ## Overview
 
 All three examples implement the same Monte Carlo Pi estimation algorithm, demonstrating how DMTCP can checkpoint and restart long-running computations across different programming languages.
